@@ -1,0 +1,46 @@
+body {
+  background-color: #3e3e42;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+
+}
+h1 {
+  font-size: xx-large;
+  border-radius: 30px;
+  padding: 2em;
+
+  margin: auto;
+  background-color: silver;
+  display: inline-block;
+}
+a {
+  text-decoration: none;
+  font-size: x-large;
+  color: black;
+  justify-items: center;
+  justify-content: center;
+  justify-self: center;
+}
+ul {
+  list-style-type: none;
+  padding: 1em;
+  border-radius: 30px;
+  background-color: silver;
+  width: 400px;
+}
+li {
+  padding: 1em;
+  justify-items: center;
+  justify-content: center;
+  justify-self: center;
+}
+
+.anime:hover {
+  color: rgb(250, 71, 187);
+}
+.anime2:hover {
+  color: rgb(250, 71, 187);
+}
+.anime3:hover {
+  color: rgb(250, 71, 187);
+}
