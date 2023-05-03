@@ -5,10 +5,8 @@ body {
 
 }
 h1 {
-  font-size: xx-large;
   border-radius: 30px;
   padding: 2em;
-
   margin: auto;
   background-color: silver;
   display: inline-block;
