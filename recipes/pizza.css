@@ -60,3 +60,6 @@ body {
   body::-webkit-scrollbar {
       display: none;
     }
+    .collage{
+      display: flex;
+    }
