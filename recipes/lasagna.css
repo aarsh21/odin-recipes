@@ -4,6 +4,8 @@ body {
 }
 .collage {
   display: flex;
+  flex-wrap: wrap;
+  row-gap: 2em;
 }
 
 h1 {
